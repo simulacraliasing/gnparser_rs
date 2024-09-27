@@ -1,0 +1,8 @@
+[package]
+name = "gnparser"
+version = "0.1.0"
+authors = ["Zhengyi <zhengyi.dong@outlook.com>"]
+edition = "2021"
+
+[dependencies]
+libc = "0.2.159"
