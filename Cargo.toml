@@ -3,6 +3,8 @@ name = "gnparser"
 version = "0.1.0"
 authors = ["Zhengyi <zhengyi.dong@outlook.com>"]
 edition = "2021"
+description = "A Rust binding for gnparser"
+license = "MIT"
 
 [dependencies]
 libc = "0.2.159"
